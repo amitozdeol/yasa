@@ -1,0 +1,19 @@
+{
+  "name": "yasa",
+  "version": "0.0.1",
+  "description": "Yet Another Script Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amitozdeol/yasa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amitozdeol/yasa/issues"
+  },
+  "homepage": "https://github.com/amitozdeol/yasa#readme"
+}
